@@ -6,4 +6,5 @@ Built using vanilla JavaScript.
 
 ## Known issues and Todos
 
-- Graphics need to be improved
+- Visuals need to be improved
+- Make an AI player with different levels of difficulty
